@@ -1,0 +1,5 @@
+{
+  "name": "bootstrap-table-contextmenu",
+  "version": "1.1.5",
+  "main": "dist/bootstrap-table-contextmenu.min.js"
+}
